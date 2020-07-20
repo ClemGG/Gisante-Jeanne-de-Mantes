@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 2c92946bb79eaf542885d898021e572d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Isidora
+  fontNames:
+  - Isidora
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1e8a6cf19b1067549820cf2b80720aa5, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
