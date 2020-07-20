@@ -1,0 +1,252 @@
+{
+    "items": [
+        {
+            "key": "titre",
+            "value": "<b>Le Gisant</b> \nde Jeanne de Mantes"
+        },
+        {
+            "key": "touchez",
+            "value": "Touchez pour lancer la simulation"
+        },
+        {
+            "key": "desc accueil 1",
+            "value": "Cette oeuvre du XIVe siècle en pierre calcaire est en très mauvais état et ne peut pas être exposée. Des tentatives de restauration ont été menées du XIXe siècle jusqu'à nos jours, mais la pierre a continué à se dégrader."
+        },
+        {
+            "key": "desc accueil 2",
+            "value": "ce dispositif permet de faire connaître cette oeuvre à tous de manière virtuelle."
+        },
+        {
+            "key": "btn accueil libre",
+            "value": "à la découverte de jeanne"
+        },
+        {
+            "key": "btn accueil histoire",
+            "value": "toc toc... \njeanne ?"
+        },
+        {
+            "key": "credits",
+            "value": "Crédits"
+        },
+        {
+            "key": "credits remerciements",
+            "value": "<b>Remerciements : </b>\r\n\r\nSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. \r\n\r\nsit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. \r\n"
+        },
+        {
+            "key": "credits partenaires",
+            "value": "<b>Partenaires :\r</b>\n\r\nSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque \r\n\n"
+        },
+        {
+            "key": "Tapez pour fermer",
+            "value": "Tapez pour fermer"
+        },
+        {
+            "key": "btn gauche accueil",
+            "value": "Accueil"
+        },
+        {
+            "key": "btn gauche libre",
+            "value": "à la découverte de jeanne"
+        },
+        {
+            "key": "btn gauche histoire",
+            "value": "Toc toc... Jeanne ?"
+        },
+        {
+            "key": "nom video",
+            "value": "Toc toc... Jeanne ?"
+        },
+        {
+            "key": "duree de la video",
+            "value": "Durée de la vidéo :"
+        },
+        {
+            "key": "prenez les ecouteurs",
+            "value": "Prenez les écouteurs pour entendre le dialogue"
+        },
+        {
+            "key": "bande haut titre histoire",
+            "value": "Toc toc... Jeanne ?"
+        },
+        {
+            "key": "bande haut desc histoire",
+            "value": "Un dialogue fictif entre Jeanne de Mantes et Alexandre Dumège."
+        },
+        {
+            "key": "bande haut titre brut",
+            "value": "L'état actuel"
+        },
+        {
+            "key": "bande haut desc brut",
+            "value": "Voici le gisant de Jeanne tel qu'il est conservé dans les réserves du musée."
+        },
+        {
+            "key": "bande haut titre res",
+            "value": "Restitution 3D"
+        },
+        {
+            "key": "bande haut desc res",
+            "value": "Proposition d'après l'observation de gisants de la même période."
+        },
+        {
+            "key": "position origine",
+            "value": "position d'origine"
+        },
+        {
+            "key": "btn res",
+            "value": "Voir la restitution 3D"
+        },
+        {
+            "key": "btn brut",
+            "value": "Voir l'état actuel"
+        },
+        {
+            "key": "pi1t",
+            "value": "Qu'est-ce que c'est ?"
+        },
+        {
+            "key": "pi1d",
+            "value": "Cette sculpture représente une femme allongée sur son tombeau, comme si elle dormait, en paix.\r\nElle se trouvait avec son mari dans une chapelle de l’église des Augustins.\r\nBien qu’elle soit couchée, les plis de ses vêtements montrent qu’elle est représentée comme si elle était debout."
+        },
+        {
+            "key": "pi1l1",
+            "value": "Détail d'une enluminure représentant un tailleur de tombe, dans <i>Estoire del Saint Graal, La Queste del Saint Graal, Morte Artu, \r</i>\nvers 1315-1325, France\r\nParchemin codex\r\n© London British Library MS Royal 14 E III  f. 66v"
+        },
+        {
+            "key": "pi1l2",
+            "value": "<i>Tombeau d'Aiol \"de Foro\" et d'Asceline, sa femme, </i>\n12ème siècle, à l'abbaye d'Ardenne, dans Jean Adhémar avec la collaboration de Gertrude Dordor, <i>Les tombeaux de la collection Gaignières</i> dans Gazette des Beaux-Arts, juillet-septembre 1974,  p. 34, ill 143"
+        },
+        {
+            "key": "pi1l3",
+            "value": "<i>Plan du convent Saint-Augustin de Tolose</i> (détail), \nReproduction photographique par E. Delon du plan du couvent Saint-Augustin gravé par I. Seguenot en 1653.\r\n© Mairie de Toulouse, Archives municipales, Cote 26Fi84"
+        },
+        {
+            "key": "pi2t",
+            "value": "Que nous dit le visage de Jeanne ?"
+        },
+        {
+            "key": "pi2d",
+            "value": "Grâce à des documents retrouvés dans les archives nous savons qu’il s’agit de Jeanne, une femme qui a vécu au début du 14e siècle. Elle était mariée à Jean de Mantes, le maître des œuvres du roi. Il était responsable des bâtiments du roi à Toulouse et dans sa région. Le couple avaient une belle propriété à Launaguet."
+        },
+        {
+            "key": "pi2l1",
+            "value": "<i>Testament de Jean de Mantes, maître des œuvres du roi dans la sénéchaussée de Toulouse et d'Albi (22 novembre 1316)</i>, parchemin \r\nArchives Départementales de la Haute-Garonne\r\n© Cliché : Conseil départemental de la Haute-Garonne/Archives départementales/1 E 458."
+        },
+        {
+            "key": "pi2l2",
+            "value": "Carte de France avec les emplacements de Paris, Toulouse et Mantes devenue Mantes-la-Jolie. \r\n© Graphisme Teddy Bélier"
+        },
+        {
+            "key": "pi3t",
+            "value": "Que nous dit le visage de Jeanne ?"
+        },
+        {
+            "key": "pi3d",
+            "value": "Jeanne est représentée comme une femme de la haute-société du Nord de la France. Pourtant, ses yeux fermés  et non ouverts comme dans le Nord, montrent qu’elle a voulu suivre les usages méridionaux. Cela nous indique qu’elle était sans doute originaire du Midi. "
+        },
+        {
+            "key": "pi3l1",
+            "value": "Gisant et détail du visage du gisant d’Algayette de Rodez épouse d’Amauri de Narbonne, ancienne cathédrale de Narbonne \r\n© Service culturel de la ville de Narbonne"
+        },
+        {
+            "key": "pi3l2",
+            "value": "<i>Tête du gisant de Jeanne de Toulouse,</i> provient de l'abbatiale de Gercy à Varennes-Jarcy (Essonne), vers 1285. Paris, musée de Cluny - musée national du Moyen Âge. \r\nPhoto © RMN-Grand Palais (musée de Cluny - musée national du Moyen-Âge) / Gérard Blot"
+        },
+        {
+            "key": "pi3l3",
+            "value": "<i>Tombeau de Marguerite d'Artois</i> (détail du visage), 14e siècle, marbre, provient du Couvent des Jacobins, Paris. \r\n© Basilique Saint-Denis. Photo Pascal Lemaître / Centre des monuments nationaux"
+        },
+        {
+            "key": "pi4t",
+            "value": "Que nous indiquent ses vêtements ?"
+        },
+        {
+            "key": "pi4d",
+            "value": "Sa tenue à la mode montre sa situation aisée puisqu’elle était la femme d’un important serviteur du roi ici à Toulouse. On remarque que dans ce contexte religieux Jeanne ne porte pas de bijoux, cela ne se faisait pas.\r\nLe style des vêtements et des drapés confirme la datation au début du 14e siècle.\r\n\r\nVue vêtements légendés\r\n- La guimpe : pièce de toile blanche qui encadre le visage et couvre le cou. \r\n- La chemise : elle est portée nuit et jour à même la peau\r\n- La cotte : se porte sur la chemise comme une robe\r\n- Le surcot avec ou sans manche : est passé par-dessus la cotte.\r"
+        },
+        {
+            "key": "pi4l1",
+            "value": "Isidore de Séville (saint ; 0560?-0636), Etymologies et Sentences d'Isidore de Séville, 1250-1299, manuscrit enluminé, Bibliothèque municipale de Toulouse, Ms. 176. Folio 126 (dtéail). Photo Gaston Boussières"
+        },
+        {
+            "key": "pi4l2",
+            "value": "Visuel à construire avec la reconstituion de la Gisante avec légendes ci-dessus"
+        },
+        {
+            "key": "pi5t",
+            "value": "Quel est cet accessoire suspendu à son bras ?"
+        },
+        {
+            "key": "pi5d",
+            "value": "Eugène Viollet-le-Duc a reproduit cet accessoire dans son Dictionnaire sous le nom d’ « aumônière », c’est-à-dire une petite bourse contenant des pièces de monnaie que les riches donnaient aux pauvres. Mais ici, il s’agit plutôt d’un petit sac à livre – ou livre en aumônière – qui contenait un livre de prières. Il nous renseigne sur le statut privilégié de Jeanne. Les livres étaient encore rares et chers à cette époque."
+        },
+        {
+            "key": "pi5l1",
+            "value": "<i>Dessin du sac à livre de Jeanne de Mantes par Eugène Viollet-le-Duc dans Viollet le Duc, Eugène, Dictionnaire raisonné du mobilier français, T. III, 7e partie : vêtements, bijoux de corps, objets de toilette, notice Heures, p. 450. Photo Daniel Martin.</i>"
+        },
+        {
+            "key": "pi5l2",
+            "value": "<i>Codex Manesse, Cod. Pal. Germ. 848, fol. 64r,</i> Allemagne, bibliothèque de l'université d’Heidelberg © Droits réservés\r\nUn codex est un cahier formé de pages manuscrites reliées ensemble en forme de livre."
+        },
+        {
+            "key": "pi5l3",
+            "value": "Attribué à Jean Pucelle, <i>Heures à l'usage d'Amiens</i> (Lescalopier 016, f. 13v : Annonciation), Amiens, Bibliothèque Municipale © Ville d'Amiens. \r\n<b>Le visuel avec la régle indique la petite taille du livre : 5,4 cm !</b>"
+        },
+        {
+            "key": "pi6t",
+            "value": "Que sont ces traces sur le coussin à la tête de Jeanne ?"
+        },
+        {
+            "key": "pi6d",
+            "value": "On perçoit nettement des traces de mains, celles d’un ange qui soutenait le coussin. C’était fréquent sur les riches tombeaux de l’époque, pour les femmes comme pour les hommes."
+        },
+        {
+            "key": "pi6l1",
+            "value": "Moulage du tombeau de <i>Louis et Philippe d'Alençon</i>, avec restitutions du 19e siècle.  \r\nSaint-Denis, basilique. \r\n© Photo Charlotte Riou\r\nLouis et Philippe étaient les petits-fils de saint Louis. L'original provenant de l'abbaye de Royaumont, non restauré, se trouve à Paris, au musée de Cluny. Dernier quart du 13e siècle  "
+        },
+        {
+            "key": "pi6l2",
+            "value": "<i>Tombeau de Philippe de France (1222-1234), dit Philippe Dagobert,</i> provient de l'Abbaye Notre-Dame de Royaumont (Asnières-sur-Oise). Saint-Denis, basilique.\r\n© Photo Charlotte Riou"
+        },
+        {
+            "key": "pi7t",
+            "value": "Qu’y avait-il aux pieds de Jeanne ?"
+        },
+        {
+            "key": "pi7d",
+            "value": "\rUne forme ronde se distingue sous ses pieds. Il s’agissait sans doute d’un chien (symbole de fidélité) comme pour la plupart des gisants féminins. D’autres animaux accompagnaient les hommes : lion, monstre, panthère, ours…"
+        },
+        {
+            "key": "pi7l1",
+            "value": "<i>Gisant de Guillaume Durant Le Jeune,</i> détail du monstre démoniaque  à ses pieds. \r\n© Toulouse, musée des Augustins. Photo Daniel Martin"
+        },
+        {
+            "key": "pi7l2",
+            "value": "<i>Gisant de Blanche de France, </i>détail des chiens à la base, 1er quart du 14e siècle. Provient des Cordeliers de Paris. Saint-Denis, basilique. \r\n© Photo Charlotte Riou\r\nFille de saint Louis et Marguerite de Provence."
+        },
+        {
+            "key": "pi7l3",
+            "value": "<i>Gisant de Marguerite d'Artois, </i>détail. Premier tiers du 14e siècle. Provient de l'église des Jacobins de Paris. SAint-Denis, Basilique. \r\n© Pascal Lemaître / Dist. Centre des monuments nationaux\r\nLes deux chiens expriment la tendresse entre les époux. "
+        },
+        {
+            "key": "pi7l4",
+            "value": "Jean de Liège, <i>Gisant de Charles IV dit le Bel </i>(roi de 1322 à 1328), détail du lion et de la lionne à ses pieds. Provient de l'abbaye de Maubuisson, vers 1370. \r\n© Paris, BouMusée du Louvre, Dist. RMN-Grand Palais / Thierry Ollivier  "
+        },
+        {
+            "key": "pi7l5",
+            "value": "Jean de Cambrai, <i>Gisant de Jean de Berry</i>, détail de l'ours à ses pieds.  Début du 15e siècle.  Provient de la Sainte-Chapelle de Bourges, aujourd'hui à la cathédrale de Bourges.  \r\n© Photo Patrick Müller / Centre des monuments nationaux\r\nD'après M. Pastoureau, le choix de cet animal comme emblème serait dû à la proximité entre le nom anglais de l'ours : bear et le nom de la province du Berry."
+        },
+        {
+            "key": "pi8t",
+            "value": "En couleur ou en noir et blanc ?"
+        },
+        {
+            "key": "pi8d",
+            "value": "Au 14e siècle, les matériaux riches comme le marbre, l’albâtre ou l’ivoire étaient laissés nus pour mettre en valeur leur blancheur. On ajoutait quelques dorures ou un peu de rouge et/ou de bleu pour faire encore mieux ressortir le blanc. Le gisant de Jeanne ne porte aucune trace de couleur. Il n’a peut-être jamais été peint. "
+        },
+        {
+            "key": "pi8l1",
+            "value": "<i>Boccace Jean, « le livre des femmes renommées »,</i> début du 15ème siècle, manuscrit\r\n© Bibliothèque nationale de France. Département des manuscrits.\r\nDétail d'une enluminure montrant une femme peignant une statue."
+        }
+    ]
+}

@@ -1,0 +1,252 @@
+{
+    "items": [
+        {
+            "key": "titre",
+            "value": "<b>La yacente</b> \nde Juana de Mantes"
+        },
+        {
+            "key": "touchez",
+            "value": "Toque para commencar la simulación"
+        },
+        {
+            "key": "desc accueil 1",
+            "value": "Este trabajo de piedra caliza del siglo XIV está en muy malas condiciones y no se puede exhibir. Se han realizado intentos de restauración desde el siglo XIX hasta nuestros días, pero la piedra ha seguido deteriorándose."
+        },
+        {
+            "key": "desc accueil 2",
+            "value": "Este dispositivo hace posible que este trabajo sea conocido virtualmente por todos."
+        },
+        {
+            "key": "btn accueil libre",
+            "value": "descubriendo a juana"
+        },
+        {
+            "key": "btn accueil histoire",
+            "value": "toc toc... \njuana?"
+        },
+        {
+            "key": "credits",
+            "value": "Créditos"
+        },
+        {
+            "key": "credits remerciements",
+            "value": "<b>Agradecimientos: </b>\r\n\r\nSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. \r\n\r\nsit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. \r\n"
+        },
+        {
+            "key": "credits partenaires",
+            "value": "<b>Socios:\r</b>\n\r\nSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque \r\n\n"
+        },
+        {
+            "key": "Tapez pour fermer",
+            "value": "Toque para cerrar"
+        },
+        {
+            "key": "btn gauche accueil",
+            "value": "Inicio"
+        },
+        {
+            "key": "btn gauche libre",
+            "value": "descubriendo a juana"
+        },
+        {
+            "key": "btn gauche histoire",
+            "value": "Toc Toc... Juana?"
+        },
+        {
+            "key": "nom video",
+            "value": "Toc Toc... Juana?"
+        },
+        {
+            "key": "duree de la video",
+            "value": "Duración del video:"
+        },
+        {
+            "key": "prenez les ecouteurs",
+            "value": "Toma los auriculares para escuchar el diálogo"
+        },
+        {
+            "key": "bande haut titre histoire",
+            "value": "Toc Toc... Juana?"
+        },
+        {
+            "key": "bande haut desc histoire",
+            "value": "Un diálogo ficticio entre Juana de Mantes y Alejandro Dumège."
+        },
+        {
+            "key": "bande haut titre brut",
+            "value": "El estado actual"
+        },
+        {
+            "key": "bande haut desc brut",
+            "value": "Aquí está la figura reclinada de Juana tal como se conserva en las reservas del museo."
+        },
+        {
+            "key": "bande haut titre res",
+            "value": "Renderizado 3D"
+        },
+        {
+            "key": "bande haut desc res",
+            "value": "Propuesta basada en la observación de depósitos del mismo período."
+        },
+        {
+            "key": "position origine",
+            "value": "posición de inicio"
+        },
+        {
+            "key": "btn res",
+            "value": "Ver la representación 3D"
+        },
+        {
+            "key": "btn brut",
+            "value": "Ver el estado actual"
+        },
+        {
+            "key": "pi1t",
+            "value": "¿Qué es?"
+        },
+        {
+            "key": "pi1d",
+            "value": "\rEsta escultura representa a una mujer tendida en su tumba, como si durmiese, en paz.\r\nSe encontraba con su marido en una capilla de la iglesia de los Agustinos.\r\nAunque esté acostada, los pliegues de su ropa muestran que está representada como si estuviese de pie."
+        },
+        {
+            "key": "pi1l1",
+            "value": "Detalle de una iluminación que representa a un tallador de tumbas, en <i>Estoire del Saint Graal, La Queste del Saint Graal, Morte Artu, </i>\nhacia 1315-1325, Francia\r\nPergamino códice\r\n© London British Library MS Royal 14 E III  f. 66v"
+        },
+        {
+            "key": "pi1l2",
+            "value": "<i>Tumba de Aiol «de Foro» y de Asceline, su mujer,</i> siglo XII, en la abadía de Ardenne, en Jean Adhémar con la colaboración de Gertrude Dordor, <i>Les tombeaux de la collection Gaignières</i> (Las tumbas de la colección Gaignières) en Gazette des Beaux-Arts, julio-septiembre de 1974,  p. 34, il. 143"
+        },
+        {
+            "key": "pi1l3",
+            "value": "<i>Plano del convento de San Agustín de Tolose</i> (detalle), Reproducción fotográfica por E. Delon del plano del convento de San Agustín grabado por I. Seguenot en 1653.\r\n© Ayuntamiento de Toulouse, Archivos municipales, Signatura 26Fi84"
+        },
+        {
+            "key": "pi2t",
+            "value": "¿Qué nos dice la cara de Juana?"
+        },
+        {
+            "key": "pi2d",
+            "value": "Gracias a documentos encontrados en los archivos, sabemos que se trata de Juana, una mujer que vivió a principios del siglo XIV. Estaba casada con Juan de Mantes, el director de las obras del rey. Era responsable de los edificios del rey en Toulouse y en su región. La pareja tenía una hermosa propiedad en Launaguet."
+        },
+        {
+            "key": "pi2l1",
+            "value": "<i>Testamento de Juan de Mantes, director de las obras del rey en la senescalía de Toulouse y Albi </i>(22 de noviembre de 1316), pergamino\r\nArchivos Departamentales de Alto Garona\r\n© Cliché: Consejo departamental de Alto Garona/Archivos departamentales/1 E 458."
+        },
+        {
+            "key": "pi2l2",
+            "value": "Mapa de Francia con los emplazamientos de París, Toulouse y Mantes, convertida en Mantes-la-Jolie. \r\n© Grafismo Teddy Bélier"
+        },
+        {
+            "key": "pi3t",
+            "value": "¿Qué nos dice la cara de Juana?"
+        },
+        {
+            "key": "pi3d",
+            "value": "Juana está representada como una mujer de la alta sociedad del Norte de Francia. Sin embargo, sus ojos cerrados y no abiertos como en el Norte, muestran que ha querido seguir los usos meridionales. Ello nos indica que, sin duda, era originaria del Mediodía. "
+        },
+        {
+            "key": "pi3l1",
+            "value": "Efigie funeraria y detalle de la cara de la efigie funeraria de Algayette de Rodez, esposa de Amauri de Narbona, antigua catedral de Narbona \r\n© Servicio cultural del Ayuntamiento de Narbona"
+        },
+        {
+            "key": "pi3l2",
+            "value": "<i>Cabeza de la efigie funeraria de Juana de Toulouse, </i>proveniente de la abadía de Gercy en Varennes-Jarcy (Essonne), hacia 1285. París, museo de Cluny - museo nacional de la Edad Media. \r\nFoto © RMN-Grand Palais (museo de Cluny - museo nacional de la Edad Media) / Gérard Blot"
+        },
+        {
+            "key": "pi3l3",
+            "value": "<i>Tumba de Margarita de Artois</i> (detalle de la cara), siglo XIV, mármol, proveniente del Convento de los Jacobinos, París. \r\n© Basílica de Saint-Denis. Foto Pascal Lemaître / Centro de monumentos nacionales"
+        },
+        {
+            "key": "pi4t",
+            "value": "¿Qué nos indica su ropa?"
+        },
+        {
+            "key": "pi4d",
+            "value": "Su vestimenta a la moda muestra su situación acomodada, ya que era la mujer de un importante servidor del rey, aquí en Toulouse. Se observa que, en este contexto religioso, Juana no lleva joyas, no se hacía.\r\nEl estilo de la ropa y los drapeados confirma la datación a principios del siglo XIV.\r\n\r\nVista ropa con leyendas\r\n- El griñón: prenda de tela blanca, que enmarca la cara y cubre el cuello. \r\n- La camisa: se lleva de noche y de día, sobre la piel.\r\n- La cotardía: se lleva sobre la camisa, como un vestido.\r\n- La saya con o sin mangas: se pone por encima de la cotardía."
+        },
+        {
+            "key": "pi4l1",
+            "value": "Isidore de Séville (saint ; 0560?-0636), Etymologies et Sentences d'Isidore de Séville, 1250-1299, manuscrit enluminé, Bibliothèque municipale de Toulouse, Ms. 176. Folio 126 (dtéail). Photo Gaston Boussières"
+        },
+        {
+            "key": "pi4l2",
+            "value": "Visuel à construire avec la reconstituion de la Gisante avec légendes ci-dessus"
+        },
+        {
+            "key": "pi5t",
+            "value": "¿Qué es este accesorio suspendido a su brazo? "
+        },
+        {
+            "key": "pi5d",
+            "value": "Eugène Viollet-le-Duc reprodujo este accesorio en su Diccionario con el nombre de «limosnera», es decir, una bolsita con monedas que los ricos daban a los pobres. Pero aquí, se trata más bien de una bolsita para libros, o libro en limosnera, que contenía un libro de oraciones. Nos informa sobre el estatus privilegiado de Juana, ya que los libros seguían siendo raros y caros en aquella época."
+        },
+        {
+            "key": "pi5l1",
+            "value": "<i>Dibujo de la bolsa para libros de Juana de Mantes por Eugène Viollet-le-Duc en Viollet le Duc, Eugène, Dictionnaire raisonné du mobilier français (Diccionario razonado del mobiliario francés), T. III, 7ª parte: ropa, joyas de cuerpo, objetos de aseo, instrucciones Heures, p. 450. Foto Daniel Martin.</i>"
+        },
+        {
+            "key": "pi5l2",
+            "value": "<i>Códice Manesse, Cód. Pal. Germ. 848, fol. 64r,</i> Alemania, biblioteca de la universidad de Heidelberg © Derechos reservados\r\nUn códice es un cuaderno formado de páginas manuscritas encuadernadas juntas en forma de libro."
+        },
+        {
+            "key": "pi5l3",
+            "value": "Atribuido a Jean Pucelle, <i>Heures à l'usage d'Amiens</i> (Horas al uso de Amiens) (Lescalopier 016, f. 13v: Anunciación), Amiens, Biblioteca Municipal © Ayuntamiento de Amiens. \r\n<b>La imagen con la regla indica el pequeño tamaño del libro: ¡5,4 cm!</b>"
+        },
+        {
+            "key": "pi6t",
+            "value": "¿Qué son esas huellas en el cojín a la cabeza de Juana?"
+        },
+        {
+            "key": "pi6d",
+            "value": "Se perciben claramente huellas de manos, las de un ángel que sujetaba el cojín. Era frecuente en las ricas tumbas de la época, tanto para las mujeres como para los hombres."
+        },
+        {
+            "key": "pi6l1",
+            "value": "<i>Reproducción de la tumba de Luis y Felipe de Alençon,</i> con restituciones del siglo XIX.  \r\nSaint-Denis, basílica. \r\n© Foto Charlotte Riou\r\nLuis y Felipe eran los nietos de San Luis. El original proveniente de la abadía de Royaumont, no restaurado, se encuentra en París, en el museo de Cluny. Último cuarto del siglo XIII."
+        },
+        {
+            "key": "pi6l2",
+            "value": "<i>Tumba de Felipe de Francia (1222-1234), llamado Felipe Dagoberto,</i> proveniente de la Abadía de Notre-Dame de Royaumont (Asnières-sur-Oise). Saint-Denis, basílica.\r\n© Foto Charlotte Riou"
+        },
+        {
+            "key": "pi7t",
+            "value": "¿Qué había a los pies de Jeanne?"
+        },
+        {
+            "key": "pi7d",
+            "value": "Se distingue bajo sus pies una forma redonda. Se trataba, sin duda, de un perro (símbolo de fidelidad) como para la mayoría de las efigies funerarias femeninas. Otros animales acompañaban a los hombres: león, monstruo, pantera, oso…"
+        },
+        {
+            "key": "pi7l1",
+            "value": "<i>Efigie funeraria de Guillermo Durando el Joven, </i>detalle del monstruo demoniaco a sus pies. \r\n© Toulouse, museo de los Agustinos. Foto Daniel Martin"
+        },
+        {
+            "key": "pi7l2",
+            "value": "<i>Efigie funeraria de Blanca de Francia, </i>detalle de los perros en la base, 1er cuarto del siglo XIV. \r\nProviene de los Cordeleros de París. Saint-Denis, basílica. \r\n© Foto Charlotte Riou\r\nHija de San Luis y Margarita de Provenza."
+        },
+        {
+            "key": "pi7l3",
+            "value": "<i>Efigie funeraria de Margarita de Artois,</i> detalle. Primer tercio del siglo XIV. \r\nProviene de la iglesia de los Jacobinos de París. Saint-Denis, basílica. \r\n© Pascal Lemaître / Dist. Centro de monumentos nacionales\r\nLos dos perros expresan la ternura entre los esposos. "
+        },
+        {
+            "key": "pi7l4",
+            "value": "Juan de Lieja, <i>Efigie funeraria de Carlos IV llamado el Hermoso </i>(rey de 1322 a 1328), detalle del león y la leona a sus pies. \r\nProviene de la abadía de Maubuisson, hacia 1370. \r\n© París, Museo del Louvre, Dist. RMN-Grand Palais / Thierry Ollivier  "
+        },
+        {
+            "key": "pi7l5",
+            "value": "Jean de Cambrai, <i>Efigie funeraria de Juan de Berry, </i>detalle del oso a sus pies.  Principios del siglo XV.  Proviene de la Santa Capilla de Bourges, actualmente en la catedral de Bourges. \r\n© Foto Patrick Müller / Centro de los monumentos nacionales\r\nSegún M. Pastoureau, la elección de este animal como emblema se debería a la proximidad entre el nombre inglés del oso, bear, y el nombre de la provincia de Berry."
+        },
+        {
+            "key": "pi8t",
+            "value": "¿En color o en blanco y negro?"
+        },
+        {
+            "key": "pi8d",
+            "value": "\rEn el siglo XIV, los materiales ricos como el mármol, el alabastro o el marfil se dejaban desnudos para poner de relieve su blancura. Se añadían algunas doraduras o un poco de rojo y/o azul para que el blanco resaltase todavía mejor. La efigie funeraria de Juana no contiene ninguna huella de color. Quizás nunca se pintó. "
+        },
+        {
+            "key": "pi8l1",
+            "value": "En attente validation Charlotte"
+        }
+    ]
+}

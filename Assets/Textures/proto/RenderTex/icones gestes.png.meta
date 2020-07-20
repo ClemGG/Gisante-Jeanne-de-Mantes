@@ -1,0 +1,463 @@
+fileFormatVersion: 2
+guid: 20256598d638176458f71ea53515cd8a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8578406216490468703
+    second: icones gestes_0
+  - first:
+      213: 7433650804555568450
+    second: icones gestes_1
+  - first:
+      213: -1597241922412184566
+    second: icones gestes_2
+  - first:
+      213: -4044105536720534055
+    second: icones gestes_3
+  - first:
+      213: 205103348940327527
+    second: icones gestes_4
+  - first:
+      213: -2488787630808063594
+    second: icones gestes_5
+  - first:
+      213: -1973665803246054965
+    second: icones gestes_6
+  - first:
+      213: 5761132722525835181
+    second: icones gestes_7
+  - first:
+      213: 7107703988326291383
+    second: icones gestes_8
+  - first:
+      213: 2252322127628862319
+    second: icones gestes_9
+  - first:
+      213: -7768419335635244420
+    second: icones gestes_10
+  - first:
+      213: -4594502843865720939
+    second: icones gestes_11
+  - first:
+      213: 6166676594524409851
+    second: icones gestes_12
+  - first:
+      213: -4943244598177523134
+    second: icones gestes_13
+  - first:
+      213: 553512867912644866
+    second: icones gestes_14
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: icones gestes_0
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 374
+        width: 46
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8df3e62d44997b4f80997959dfc32ce
+      internalID: -8578406216490468703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icones gestes_1
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 395
+        width: 53
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68943230f99c2dd41820412a8fc6dc05
+      internalID: 7433650804555568450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icones gestes_2
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 373.3333
+        width: 152
+        height: 186.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb798af02432a0745b8417c81de7f8e2
+      internalID: -1597241922412184566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icones gestes_3
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 373.3333
+        width: 152
+        height: 186.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2b0c915846ef2468194ae64641472f
+      internalID: -4044105536720534055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icones gestes_4
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 373.3333
+        width: 152
+        height: 186.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97ab3a3adbb20b48801553d91fbe8b8
+      internalID: 205103348940327527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icones gestes_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 187.33333
+        width: 152
+        height: 186.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6260e4c917c208148b43567e9cb8997f
+      internalID: -2488787630808063594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icones gestes_6
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 187.33333
+        width: 152
+        height: 186.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060e231be11e33a458659f09034e2064
+      internalID: -1973665803246054965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icones gestes_7
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 187.33333
+        width: 152
+        height: 186.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543649d328c8de94db113c086c839e09
+      internalID: 5761132722525835181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icones gestes_8
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 187.33333
+        width: 152
+        height: 186.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518dbff4b586c6b4894ec649b1a8ab93
+      internalID: 7107703988326291383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icones gestes_9
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 187.33333
+        width: 152
+        height: 186.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c4e9acfbd9f79408da283cefc54fc5
+      internalID: 2252322127628862319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icones gestes_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.3333282
+        width: 152
+        height: 186.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5596067fa254db441a29fc55e2e445a8
+      internalID: -7768419335635244420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icones gestes_11
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1.3333282
+        width: 152
+        height: 186.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2252076d08aa78e49960169860d98671
+      internalID: -4594502843865720939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icones gestes_12
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 87
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba38635320b84c4195f36a3533f58fd
+      internalID: 6166676594524409851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icones gestes_13
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 86
+        width: 79
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62bf4f4122abd7444a2aeb8c5dbac7b1
+      internalID: -4943244598177523134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icones gestes_14
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1.3333282
+        width: 152
+        height: 186.66667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf925b972cb367e40b906dff3e718f00
+      internalID: 553512867912644866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

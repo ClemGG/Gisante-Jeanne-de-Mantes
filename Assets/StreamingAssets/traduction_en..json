@@ -1,0 +1,252 @@
+{
+    "items": [
+        {
+            "key": "titre",
+            "value": "<b>The Recumbent</b> \nof Joan Of Mantes"
+        },
+        {
+            "key": "touchez",
+            "value": "Touch to start the simulation"
+        },
+        {
+            "key": "desc accueil 1",
+            "value": "This 14th century limestone work is in very poor condition and cannot be exhibited. Restoration attempts have been made from the 19th century to the present day, but the stone has continued to deteriorate."
+        },
+        {
+            "key": "desc accueil 2",
+            "value": "this device makes it possible to make this work known to everyone virtually."
+        },
+        {
+            "key": "btn accueil libre",
+            "value": "Discovering Joan"
+        },
+        {
+            "key": "btn accueil histoire",
+            "value": "knock knock...\nJoan?"
+        },
+        {
+            "key": "credits",
+            "value": "Credits"
+        },
+        {
+            "key": "credits remerciements",
+            "value": "<b>Thanks: </b>\r\n\r\nSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. \r\n\r\nsit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. \r\n"
+        },
+        {
+            "key": "credits partenaires",
+            "value": "<b>Partners:\r</b>\n\r\nSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque \r\n\n"
+        },
+        {
+            "key": "Tapez pour fermer",
+            "value": "Tap to close"
+        },
+        {
+            "key": "btn gauche accueil",
+            "value": "Home"
+        },
+        {
+            "key": "btn gauche libre",
+            "value": "discovering Joan"
+        },
+        {
+            "key": "btn gauche histoire",
+            "value": "Knock knock... Joan?"
+        },
+        {
+            "key": "nom video",
+            "value": "Knock knock... Joan?"
+        },
+        {
+            "key": "duree de la video",
+            "value": "Duration of the video:"
+        },
+        {
+            "key": "prenez les ecouteurs",
+            "value": "Take the headphones to hear the dialogue"
+        },
+        {
+            "key": "bande haut titre histoire",
+            "value": "Knock knock... Joan?"
+        },
+        {
+            "key": "bande haut desc histoire",
+            "value": "A fictional dialogue between Joan of Mantes and Alexander Dumège."
+        },
+        {
+            "key": "bande haut titre brut",
+            "value": "The current state"
+        },
+        {
+            "key": "bande haut desc brut",
+            "value": "Here is the recumbent figure of Joan as it is kept in the museum reserves."
+        },
+        {
+            "key": "bande haut titre res",
+            "value": "3D Reproduction"
+        },
+        {
+            "key": "bande haut desc res",
+            "value": "Proposal based on the observation of deposits from the same period."
+        },
+        {
+            "key": "position origine",
+            "value": "original position"
+        },
+        {
+            "key": "btn res",
+            "value": "See the 3D reproduction"
+        },
+        {
+            "key": "btn brut",
+            "value": "See the actual state"
+        },
+        {
+            "key": "pi1t",
+            "value": "What is this?"
+        },
+        {
+            "key": "pi1d",
+            "value": "This sculpture represents a woman lying on her tomb, as though she were sleeping peacefully.\r\nShe was with her husband in a chapel in the church of the Augustinian Convent of Toulouse.\r\nAlthough she is lying down, the folds in her clothes indicate that she is represented as though she were standing."
+        },
+        {
+            "key": "pi1l1",
+            "value": "Details from an illumination representing a tombstone cutter, in <i>Estoire del Saint Graal, La Queste del Saint Graal, Morte Artu</i>, \ncirca 1315–1325, France\r\nParchment codex\r\n© London British Library MS Royal 14 E III f. 66v"
+        },
+        {
+            "key": "pi1l2",
+            "value": "<i>Tomb of Aiol ‘de Foro’ and his wife Asceline</i>, 12th century, at Ardenne Abbey, in Jean Adhémar with Gertrude Dordor, <i>Les tombeaux de la collection Gaignières</i>, in Gazette des Beaux-Arts, July–September 1974, p. 34, illus. 143"
+        },
+        {
+            "key": "pi1l3",
+            "value": "<i>Plan of the Augustinian Convent of Toulouse</i> (detail), photographic reproduction by E. Delon of an etching from 1653 by I. Seguenot.\r\n© Mairie de Toulouse, Archives municipales, Cote 26Fi84"
+        },
+        {
+            "key": "pi2t",
+            "value": "What does Joan’s face tell us?"
+        },
+        {
+            "key": "pi2d",
+            "value": "Thanks to documents found in the archives, we know that this is Joan, a woman who lived at the beginning of the fourteenth century. She was married to John of Mantes, the king’s master builder. He was responsible for the king’s buildings in Toulouse and the surrounding region. The couple owned a large estate in nearby Launaguet."
+        },
+        {
+            "key": "pi2l1",
+            "value": "<i>John of Mante’s will,</i> (22 November 1316), parchment \r\nHaute-Garonne Record Office\r\n© Photo: Conseil départemental de la Haute-Garonne/Archives départementales/1 E 458."
+        },
+        {
+            "key": "pi2l2",
+            "value": "Map of France showing Paris, Toulouse and Mantes (now Mantes-la-Jolie). \r\n© Graphics: Teddy Bélier"
+        },
+        {
+            "key": "pi3t",
+            "value": "What does Joan’s face tell us?"
+        },
+        {
+            "key": "pi3d",
+            "value": "Joan is represented as an upper-class woman from the north of France. However, the fact that her eyes are closed, rather than open as they would be in the North, shows that she wished to follow the mores of the South. This indicates that she was originally from the south of France. "
+        },
+        {
+            "key": "pi3l1",
+            "value": "Recumbent effigy and face detail of Algayette of Rodez, wife to Amauri of Narbonne. Ancient cathedral of Narbonne \r\n© Service culturel de la ville de Narbonne"
+        },
+        {
+            "key": "pi3l2",
+            "value": "<i>Head of the recumbent effigy of Joan of Toulouse,</i> from Gercy Abbey in Varennes-Jarcy (Essonne), circa 1285. Paris, Musée de Cluny – National museum of the Middle Ages. \r\nPhoto © RMN-Grand Palais (musée de Cluny – musée national du Moyen-Âge) / Gérard Blot"
+        },
+        {
+            "key": "pi3l3",
+            "value": "<i>Tomb of Margaret of Artois</i> (detail of the face), 14th century, marble, from the Jacobin Convent, Paris. \r\n© Basilique Saint-Denis. Photo: Pascal Lemaître / Centre des monuments nationaux"
+        },
+        {
+            "key": "pi4t",
+            "value": "What do her clothes tell us?"
+        },
+        {
+            "key": "pi4d",
+            "value": "Her fashionable clothing shows that she was rich, as she was the wife of an important servant of the king here in Toulouse. Note that Joan wears no jewellery, as it would not have been considered appropriate in a religious context.\r\nThe style of the clothes and the drapery date the effigy to the beginning of the fourteenth century.\r\n\r\nView of the captioned clothes :\n– Wimple: a piece of white material which frames the face and covers the neck. \r\n– Shift: undergarment worn day and night, next to the skin.\r\n– Kirtle: worn over the shift, like a dress.\r\n– Surcoat: with or without sleeves, worn over the kirtle."
+        },
+        {
+            "key": "pi4l1",
+            "value": "Isidore de Séville (saint ; 0560?-0636), Etymologies et Sentences d'Isidore de Séville, 1250-1299, manuscrit enluminé, Bibliothèque municipale de Toulouse, Ms. 176. Folio 126 (dtéail). Photo Gaston Boussières"
+        },
+        {
+            "key": "pi4l2",
+            "value": "Visuel à construire avec la reconstituion de la Gisante avec légendes ci-dessus"
+        },
+        {
+            "key": "pi5t",
+            "value": "What is the accessory she is carrying over her arm? "
+        },
+        {
+            "key": "pi5d",
+            "value": "Eugène Viollet-le-Duc included this accessory in his dictionary of architecture under the name aumônière, in other words a small purse containing coins that the rich would give to the poor. However, in this instance it is a small book bag – or 'girdle book' – which contained a prayer book. It informs us of Joan's privileged status. Books were still rare and expensive in this period."
+        },
+        {
+            "key": "pi5l1",
+            "value": "<i>Drawing of Joan of Mantes' book bag by Eugène Viollet-le-Duc, in E. Viollet-le-Duc, Dictionnaire raisonné du mobilier français, vol. III, part 7: clothes, jewellery, toilet articles, book of Hours, p. 450. Photo: Daniel Martin.</i>"
+        },
+        {
+            "key": "pi5l2",
+            "value": "<i>Codex Manesse, Cod. Pal. Germ. 848, fol. 64r,</i> Germany, Heidelberg University library © Rights reserved\r\nA codex is a notebook made up of handwritten pages bound together as a book."
+        },
+        {
+            "key": "pi5l3",
+            "value": "Attributed to Jean Pucelle, <i>Hours for use in Amiens </i>(Lescalopier 016, f. Annunciation), Amiens Municipal Library © Ville d'Amiens. \r\n<b>The rule included in the picture shows how small the book is. Just 5.4 cm!</b>"
+        },
+        {
+            "key": "pi6t",
+            "value": "What are the marks on the cushion at Joan's head?"
+        },
+        {
+            "key": "pi6d",
+            "value": "We can clearly see hand-prints, marks supposedly left by an angel who had been supporting the cushion. This was a common feature of the tombs of wealthy men and women in the period."
+        },
+        {
+            "key": "pi6l1",
+            "value": "<i>Cast of the Tomb of Louis and Philip of Alençon, </i>with restoration from the 19th century.  \r\nBasilica of Saint-Denis. \r\n© Photo: Charlotte Riou\r\nLouis and Philip were the grandsons of Saint Louis. The original comes from Royaumont Abbey and now lies, unrestored, in the Cluny Museum, Paris. Late 13th century.             "
+        },
+        {
+            "key": "pi6l2",
+            "value": "<i>Tomb of Philip of France (1222–1234), called Philip Dagobert,</i> from Notre-Dame de Royaumont Abbey (Asnières-sur-Oise). Basilica of Saint-Denis.\r\n© Photo: Charlotte Riou"
+        },
+        {
+            "key": "pi7t",
+            "value": "What was at Joan's feet?"
+        },
+        {
+            "key": "pi7d",
+            "value": "We can distinguish a rounded shape beneath her feet. It was undoubtedly a dog, a symbol of loyalty in most female recumbent effigies. Men were accompanied by other animals, such as a lion, a monster, a panther or a bear."
+        },
+        {
+            "key": "pi7l1",
+            "value": "<i>Recumbent effigy of Guillaume Durant the Younger,</i> detail of a demonic monster at his feet. \r\n© Toulouse, musée des Augustins. Photo: Daniel Martin"
+        },
+        {
+            "key": "pi7l2",
+            "value": "<i>Recumbent effigy of Blanche of France, </i>detail of dogs at the base, early 14th century. \r\nFrom the Cordeliers of Paris (Franciscan Order). Basilica of Saint-Denis. \r\n© Photo: Charlotte Riou\r\nDaughter to Saint Louis and Margaret of Provence."
+        },
+        {
+            "key": "pi7l3",
+            "value": "<i>Recumbent effigy of Margaret of Artois,</i> detail. Early 14th century. \r\nFrom the church of the Jacobin Convent of Paris. Basilica of Saint-Denis. \r\n© Pascal Lemaître / Dist. Centre des monuments nationaux\r\nThe two dogs represent the spouses’ tenderness. "
+        },
+        {
+            "key": "pi7l4",
+            "value": "<i>John of Liège, Recumbent effigy of Charles IV, called the Fair</i> (reigned 1322–1328), \r\ndetail of the lion and the lioness at his feet. \r\nFrom Maubuisson Abbey circa 1370. \r\n© Paris, BouMusée du Louvre, Dist. RMN-Grand Palais / Thierry Ollivier  "
+        },
+        {
+            "key": "pi7l5",
+            "value": "<i>John of Cambrai, Recumbent effigy of John of Berry,</i> detail of the bear at his feet.  Early 15th century.  \r\nFrom the Sainte-Chapelle of Bourges, now Bourges Cathedral.  \r\n© Photo Patrick Müller / Centre des monuments nationaux\r\nAccording to M. Pastoureau, the bear would have been chosen as an emblem because of the similarity between the English word 'bear' and the name of the province: Berry."
+        },
+        {
+            "key": "pi8t",
+            "value": "In colour or black and white?"
+        },
+        {
+            "key": "pi8d",
+            "value": "In the fourteenth century expensive materials, such as marble, alabaster and ivory, were left unembellished to show off their whiteness. Some gilding or touches of red and/or blue were added to better highlight the white. Joan’s recumbent effigy bears no trace of colour. It was perhaps never painted. "
+        },
+        {
+            "key": "pi8l1",
+            "value": "En attente validation Charlotte"
+        }
+    ]
+}
