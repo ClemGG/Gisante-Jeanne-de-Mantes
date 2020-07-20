@@ -1,0 +1,182 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ad27a969fbe73945bee5a8402121259, type: 3}
+  m_Name: es
+  m_EditorClassIdentifier: Assembly-CSharp::Dialogue
+  repliques:
+  - characterName: Narrateur
+    text: "La acci\xF3n se sit\xFAa hacia 1830, en una capilla de la iglesia del convento
+      de los Agustinos. Un equipo de obreros viene a destruir el fondo redondeado
+      de la iglesia para construir, a continuaci\xF3n, un muro recto. Cuando las obras
+      empiezan\u2026"
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: Jeanne de Mantes
+    text: "\xA1Eh! \xA1Eh! \xBFQu\xE9 pasa? \xBFQu\xE9 hacen ah\xED? \xA1Paren inmediatamente!"
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: "Alexandre Dum\xE8ge"
+    text: "\xA1Deje de moverse as\xED y pare de gritar, voy a intentar sacarla de
+      ah\xED!"
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: Jeanne de Mantes
+    text: "\xBFC\xF3mo que sacarme de aqu\xED? \xA1Pero me est\xE1 haciendo da\xF1o!"
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: "Alexandre Dum\xE8ge"
+    text: "\xA1Pero pare ya! \xBFC\xF3mo quiere usted que lo consiga, si apenas la
+      veo!"
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: Jeanne de Mantes
+    text: "\xA1Ay! \xA1Pero me va a matar usted! Me quiere robar el bolso, \xBFno?
+      \xA1Un ladr\xF3n, un ladr\xF3n incorregible, eso es lo que es usted!"
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: "Alexandre Dum\xE8ge"
+    text: "\xA1Pero est\xE1 usted loca! \xA1Le estoy diciendo que pare!\r\n\xA1Ah,
+      ya s\xE9, ya le veo la cara!"
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: "Alexandre Dum\xE8ge"
+    text: "\xA1Oh! \xA1Le ha desaparecido la nariz! \xA1Y el resto, todo el resto,
+      qu\xE9 pena! \xBFC\xF3mo voy a hacer yo para sacarla de ah\xED? \xA1Qu\xE9 tristeza!"
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: Jeanne de Mantes
+    text: "\xA1Pero todo es su culpa, de tanto golpear as\xED el muro! \xBFQui\xE9n
+      se lo ha permitido?\r\n\xBFPero qui\xE9n se cree usted, por favor?"
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: "Alexandre Dum\xE8ge"
+    text: "\xA1Se\xF1ora, un honor, Caballero Alexandre Dum\xE8ge, para servirle,
+      soy el conservador de este lugar!"
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: Jeanne de Mantes
+    text: "\xA1Qu\xE9 verg\xFCenza! Soy Juana de Mantes, fund\xE9 esta capilla y muchas
+      m\xE1s con mi marido, hace m\xE1s de 500 a\xF1os. \xBFNo es posible tener un
+      poco de paz!?"
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: "Alexandre Dum\xE8ge"
+    text: "Pero, precisamente, estoy intentando sacarla de ah\xED. \xA1Por lo que
+      m\xE1s quiera, qu\xE9dese tranquila!"
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: Jeanne de Mantes
+    text: "\xA1Quiere usted acabar realmente conmigo! \xA1Qu\xE9 torpe es usted! \xA1Para
+      nada h\xE1bil! \xA1Pat\xE1n, carcamal, ya basta, d\xE9jeme o suelto a mi perro!"
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: "Alexandre Dum\xE8ge"
+    text: "\xBFUn perro? \xBFPero, qu\xE9 perro?"
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: Jeanne de Mantes
+    text: "El que cuida de m\xED, a mis pies."
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: "Alexandre Dum\xE8ge"
+    text: "\xA1Todav\xEDa sigue ah\xED ese, menos mal que ya no muerde!"
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: Jeanne de Mantes
+    text: "Pero, por cierto, \xBFd\xF3nde est\xE1 Juan? "
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: Jeanne de Mantes
+    text: "Juan, Juan, \xBFd\xF3nde est\xE1 usted?"
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: "Alexandre Dum\xE8ge"
+    text: "Pero, \xBFqu\xE9 dice?"
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: Jeanne de Mantes
+    text: "\xA1Juan, mi marido, estaba aqu\xED, a mi lado, y ya no lo veo!"
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: "Alexandre Dum\xE8ge"
+    text: "Pobrecita, yo tampoco, s\xF3lo la veo a usted y a su animalito."
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: Jeanne de Mantes
+    text: "Pues sepa usted que estaba aqu\xED, con su m\xE1s hermosa armadura, no
+      lo entiendo."
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: "Alexandre Dum\xE8ge"
+    text: "Hemos buscado por todas partes sin \xE9xito, aqu\xED s\xF3lo est\xE1 usted."
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: Jeanne de Mantes
+    text: "\xA1Qu\xE9 horror! \xBFQu\xE9 ha sido de \xE9l?"
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: "Alexandre Dum\xE8ge"
+    text: "No lo s\xE9, quiz\xE1s un b\xE1rbaro destruy\xF3 su tumba en la \xE9poca
+      de las guerras de religi\xF3n, o bien uno de esos enfurecidos revolucionarios.
+      Algunos grabaron su nombre en las grandes piedras del claustro, todav\xEDa se
+      pueden leer."
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: Jeanne de Mantes
+    text: "\xBFNo queda nada, realmente nada de \xE9l?"
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: "Alexandre Dum\xE8ge"
+    text: "\xBFD\xF3nde buscar, por d\xF3nde empezar? Alrededor de nosotros no veo
+      nada\u2026 Quiz\xE1s ah\xED, algo m\xE1s lejos, all\xED, venga a buscar conmigo."
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: Jeanne de Mantes
+    text: "\xA1No puedo enfrentarme al sol, mis ojos llevan cerrados demasiado tiempo,
+      vaya usted, encu\xE9ntrelo!"
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: Narrateur
+    text: "A d\xEDa de hoy, seguimos buscando a Juan. \xBFTendr\xEDa usted una idea
+      para ayudarnos?"
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  fini: 0

@@ -1,0 +1,181 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ad27a969fbe73945bee5a8402121259, type: 3}
+  m_Name: en
+  m_EditorClassIdentifier: Assembly-CSharp::Dialogue
+  repliques:
+  - characterName: Narrateur
+    text: "It is around the year\_1830 in a chapel in the church of the Augustinian
+      Convent of Toulouse. Workers are about to demolish the rounded back wall of
+      the church, which they will replace with a straight wall. Work begins\u2026 "
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: Jeanne de Mantes
+    text: "Hey! Hey! What\u2019s going on? What are you doing here? Stop it!"
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: "Alexandre Dum\xE8ge"
+    text: "Stop moving about and stop shouting! I\u2019m trying to get you out!"
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: Jeanne de Mantes
+    text: "What do you mean \u2018get me out\u2019? You\u2019re hurting me!"
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: "Alexandre Dum\xE8ge"
+    text: Stop moving! How do you expect me to make any progress at all? I can hardly
+      see you!
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: Jeanne de Mantes
+    text: "Ouch! You\u2019re going to kill me at this rate! You want my bag! That\u2019s
+      what you\u2019re after, isn\u2019t it? A thief, a common thief, that\u2019s
+      what you are!"
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: "Alexandre Dum\xE8ge"
+    text: "You\u2019re mad! Stop moving, I tell you!\r\nOh, at last, I can just about
+      see your face!"
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: "Alexandre Dum\xE8ge"
+    text: "Oh! Your nose has gone! And the rest, all the rest\u2026 What a mess! How
+      am I going to get you out of there? How sad!"
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: Jeanne de Mantes
+    text: "Well, it\u2019s all your fault, striking the wall like that! Who gave you
+      permission?\r\nWho are you, in fact?"
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: "Alexandre Dum\xE8ge"
+    text: "My respects, Madam. Chevalier Alexandre Dum\xE8ge at your service. I am
+      the curator of this place."
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: Jeanne de Mantes
+    text: Well, shame on you, sir! I am Joan of Mantes. My husband and I founded this
+      chapel, and many others, over 500 years ago. Am I really entitled to no peace?
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: "Alexandre Dum\xE8ge"
+    text: "That\u2019s precisely why I\u2019m trying to get you out of there. For
+      heaven\u2019s sake, do calm down!"
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: Jeanne de Mantes
+    text: "You really do want to finish me off, don\u2019t you? Oh, you\u2019re so
+      clumsy! You really don\u2019t know what you\u2019re doing, do you? You oaf!
+      You lout! That\u2019s enough, leave me alone or I\u2019ll set my dog on you!"
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: "Alexandre Dum\xE8ge"
+    text: Your dog? What dog?
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: Jeanne de Mantes
+    text: The one that watches over me, here at my feet.
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: "Alexandre Dum\xE8ge"
+    text: "Oh yes, he\u2019s still there\u2026 Thankfully, he no longer bites!"
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: Jeanne de Mantes
+    text: 'But what about John? Where is John? '
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: Jeanne de Mantes
+    text: John, John! Where are you?
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: "Alexandre Dum\xE8ge"
+    text: What are you talking about?
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: Jeanne de Mantes
+    text: "John, my husband! He was just here, next to me\u2026 I can\u2019t see him
+      any more."
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: "Alexandre Dum\xE8ge"
+    text: My poor woman, me neither. All I can see is you and your pet.
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: Jeanne de Mantes
+    text: "But he was here, wearing his best armour\u2026 I don\u2019t understand."
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: "Alexandre Dum\xE8ge"
+    text: "We\u2019ve looked everywhere but we can\u2019t find him. We\u2019ve only
+      found you."
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: Jeanne de Mantes
+    text: How awful! What has become of him?
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: "Alexandre Dum\xE8ge"
+    text: "I don\u2019t know. Perhaps some brute during the Wars of Religion or one
+      of those raving revolutionaries destroyed your tomb. They scratched their names
+      on the big stones of the cloister. You can still read them. "
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: Jeanne de Mantes
+    text: Is there really nothing left of him at all?
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: "Alexandre Dum\xE8ge"
+    text: "Where should we start looking? I can\u2019t see anything nearby\u2026 Over
+      there, perhaps. A bit further on\u2026 Come and look with me."
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: Jeanne de Mantes
+    text: "I can\u2019t face the sunlight, my eyes have been closed for far too long.
+      Go ahead yourself. Find him!"
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: Narrateur
+    text: To this day, we are still looking for John. Do you have any ideas that could
+      help us?
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  fini: 0

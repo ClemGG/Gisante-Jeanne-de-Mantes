@@ -1,0 +1,186 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ad27a969fbe73945bee5a8402121259, type: 3}
+  m_Name: fr
+  m_EditorClassIdentifier: Assembly-CSharp::Dialogue
+  repliques:
+  - characterName: Narrateur
+    text: "L\u2019action se situe vers 1830 dans une chapelle de l\u2019\xE9glise
+      du couvent des Augustins. Une \xE9quipe d\u2019ouvriers vient d\xE9truire le
+      fond arrondi de l\u2019\xE9glise pour construire ensuite un mur droit. Alors
+      que les travaux commencent\u2026.. "
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: Jeanne de Mantes
+    text: "H\xE8\_! H\xE9\_! Que se passe-t-il\_? Que faites-vous l\xE0\_? Mais arr\xEAtez
+      enfin\_!"
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: "Alexandre Dum\xE8ge"
+    text: "Cessez de bouger comme \xE7a et arr\xEAtez de crier, j\u2019essaie de vous
+      tirer de l\xE0\_!"
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: Jeanne de Mantes
+    text: "Comment \xE7a me tirer de l\xE0\_! Mais vous me faites mal\_!"
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: "Alexandre Dum\xE8ge"
+    text: "Mais cesser donc\_! Comment voulez-vous que j\u2019arrive \xE0 quelque
+      chose, je vous vois \xE0 peine\_!"
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: Jeanne de Mantes
+    text: "A\xEFe ! Mais vous allez me tuer ! Vous voulez me prendre mon sac, c\u2019est
+      cela n\u2019est-ce pas ! Un voleur, un fieff\xE9 voleur, c\u2019est tout ce
+      que vous \xEAtes !"
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: "Alexandre Dum\xE8ge"
+    text: "Mais vous \xEAtes folle\_! Cessez vous dis-je\_!\r\nAh \xE7a y est, j\u2019aper\xE7ois
+      votre visage\_!"
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: "Alexandre Dum\xE8ge"
+    text: "Oh\_! Votre nez a disparu\_! Et le reste, tout le reste, quel g\xE2chis,
+      comment vais-je faire pour vous sortir de l\xE0\_! Quelle tristesse\_!"
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: Jeanne de Mantes
+    text: "Mais tout est de votre faute, \xE0 frapper comme cela dans ce mur\_! Qui
+      vous a permis\_?\r\nQui \xEAtes-vous enfin\_?"
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: "Alexandre Dum\xE8ge"
+    text: "Madame mes hommages, Chevalier Alexandre Dum\xE8ge, pour vous servir, je
+      suis le conservateur de ces lieux\_!"
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: Jeanne de Mantes
+    text: "Quelle honte, je suis Jeanne de Mantes, j\u2019ai fond\xE9 cette chapelle
+      et bien d\u2019autres avec mon mari il y a plus de 500 ans. N\u2019est-il pas
+      possible d\u2019avoir un peu de paix !?"
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: "Alexandre Dum\xE8ge"
+    text: "Mais, justement j\u2019essaie de vous sortir de l\xE0. De gr\xE2ce, restez
+      tranquille\_!"
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: Jeanne de Mantes
+    text: "Vous voulez vraiment m\u2019achever\_! Qu\u2019est-ce que vous \xEAtes
+      maladroit\_! Pas d\xE9gourdi pour deux sous\_! Malotru, vielle baderne, cela
+      suffit laissez moi ou je l\xE2che mon chien\_!"
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: "Alexandre Dum\xE8ge"
+    text: "Un chien ? Mais quel chien\_?"
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: Jeanne de Mantes
+    text: "Celui qui veille sur moi, \xE0 mes pieds."
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: "Alexandre Dum\xE8ge"
+    text: "Il est encore l\xE0 celui-l\xE0, heureusement il ne mord plus\_!"
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: Jeanne de Mantes
+    text: "Mais, d\u2019ailleurs, o\xF9 est Jean\_? "
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: Jeanne de Mantes
+    text: "Jean, Jean, o\xF9 \xEAtes-vous\_?"
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: "Alexandre Dum\xE8ge"
+    text: "Mais que dites-vous\_?"
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: Jeanne de Mantes
+    text: "Jean, mon mari, il \xE9tait l\xE0, \xE0 c\xF4t\xE9 de moi, je ne le vois
+      plus\_!"
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: "Alexandre Dum\xE8ge"
+    text: Malheureuse, moi non plus, je ne vois que vous et votre bestiole.
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: Jeanne de Mantes
+    text: "Mais il \xE9tait l\xE0 pourtant dans sa plus belle armure, je ne comprends
+      pas."
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: "Alexandre Dum\xE8ge"
+    text: "Nous avons cherch\xE9 partout mais sans succ\xE8s, il n\u2019y a que vous."
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: Jeanne de Mantes
+    text: "Quelle horreur\_! Qu\u2019est-il devenu\_?"
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: "Alexandre Dum\xE8ge"
+    text: "Je ne sais pas, un soudard a peut-\xEAtre d\xE9truit votre tombeau au temps
+      des guerres de religion ou bien l\u2019un de ces enrag\xE9s de r\xE9volutionnaires.
+      Certains ont grav\xE9 leur nom sur les grandes pierres du clo\xEEtre, on peut
+      encore les lire."
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: Jeanne de Mantes
+    text: Il ne reste rien, vraiment rien de lui ?
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: "Alexandre Dum\xE8ge"
+    text: "O\xF9 chercher, par o\xF9 commencer\_? Autour de nous je ne vois rien\u2026
+      Peut-\xEAtre l\xE0, un peu plus loin, l\xE0-bas, venez chercher avec moi."
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: Jeanne de Mantes
+    text: "Je ne peux pas affronter le soleil, mes yeux sont clos depuis trop longtemps,
+      allez-y vous, trouvez-le\_!"
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  - characterName: Narrateur
+    text: "A ce jour, nous cherchons toujours Jean. Auriez-vous une id\xE9e\_pour
+      nous aider\_?"
+    voiceClip: {fileID: 0}
+    bruitageClip: {fileID: 0}
+    endBruitage: 0
+  fini: 0
