@@ -127,7 +127,7 @@ public class CameraGisante : MonoBehaviour
 
 
 
-#if UNITY_EDITOR
+//#if UNITY_EDITOR
 
     private void OnValidate()
     {
@@ -135,7 +135,7 @@ public class CameraGisante : MonoBehaviour
         cameraSensitivity = exportTablette ? cameraSensitivityTablette : cameraSensitivitySouris;
     }
 
-#endif
+//#endif
 
 
 
@@ -478,26 +478,35 @@ public class CameraGisante : MonoBehaviour
 
 
 #if UNITY_STANDALONE_WIN
-        if (!isResetting && Input.touchCount == 1)
+
+        //Ne fonctionne pas si les BuildSettings n'ont pas comme platforme le PC
+        if (!isResetting)
         {
-            Touch touch = Input.GetTouch(0);
-
-            if (touch.phase == TouchPhase.Moved)
-            {
-                Vector3 drag = Vector3.zero;
-                drag.x = touch.deltaPosition.x / Screen.width;
-                drag.y = touch.deltaPosition.y / Screen.height;
-                drag.x = Mathf.Clamp(drag.x, -1f, 1f);
-                drag.y = Mathf.Clamp(drag.y, -1f, 1f);
-
-
-                yaw += drag.x * (invertXAxis ? -1 : 1) * cameraSensitivity;
-                pitch += drag.y * cameraSensitivity;
-                pitch = Mathf.Clamp(pitch, clampAnglesPitch.x, clampAnglesPitch.y);
-
-            }
-
+            yaw += Input.GetAxis("Mouse X") * (invertXAxis ? -1 : 1) * cameraSensitivity;
+            pitch += Input.GetAxis("Mouse Y") * (invertYAxis ? -1 : 1) * cameraSensitivity;
+            pitch = Mathf.Clamp(pitch, clampAnglesPitch.x, clampAnglesPitch.y);
         }
+
+        //if (!isResetting && Input.touchCount == 1)
+        //{
+        //    Touch touch = Input.GetTouch(0);
+
+        //    if (touch.phase == TouchPhase.Moved)
+        //    {
+        //        Vector3 drag = Vector3.zero;
+        //        drag.x = touch.deltaPosition.x / Screen.width;
+        //        drag.y = touch.deltaPosition.y / Screen.height;
+        //        drag.x = Mathf.Clamp(drag.x, -1f, 1f);
+        //        drag.y = Mathf.Clamp(drag.y, -1f, 1f);
+
+
+        //        yaw += drag.x * (invertXAxis ? -1 : 1) * cameraSensitivity;
+        //        pitch += drag.y * cameraSensitivity;
+        //        pitch = Mathf.Clamp(pitch, clampAnglesPitch.x, clampAnglesPitch.y);
+
+        //    }
+
+        //}
 #endif
 
 #if UNITY_EDITOR
